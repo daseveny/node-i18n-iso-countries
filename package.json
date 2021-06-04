@@ -1,6 +1,6 @@
 {
   "name": "i18n-iso-countries",
-  "version": "6.4.0",
+  "version": "6.7.0",
   "description": "i18n for ISO 3166-1 country codes",
   "typings": "index.d.ts",
   "keywords": [
@@ -27,10 +27,12 @@
     "cs",
     "da",
     "de",
+    "dv",
     "el",
     "en",
     "es",
     "et",
+    "eu",
     "fa",
     "fi",
     "fr",
@@ -73,6 +75,7 @@
     "sq",
     "sr",
     "sv",
+    "sw",
     "ta",
     "tg",
     "th",
